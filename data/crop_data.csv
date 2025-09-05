@@ -1,0 +1,4 @@
+Crop,N_min,N_max,P_min,P_max,K_min,K_max,pH_min,pH_max,Moisture_min,Moisture_max
+Wheat,70,120,30,60,30,50,6.0,7.5,18,30
+Rice,90,140,40,80,40,80,5.0,7.0,25,50
+Maize,60,110,25,60,25,55,5.8,7.2,15,35

@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+opencv-python
+pillow
+streamlit
+geopandas
+folium
+rasterio
